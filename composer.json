@@ -1,5 +1,5 @@
 {
-    "name": "haris/my-package",
+    "name": "smh-tariq/my-package",
     "description": "My custom package",
     "type": "library",
     "autoload": {
