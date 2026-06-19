@@ -1,0 +1,11 @@
+{
+    "name": "haris/my-package",
+    "description": "My custom package",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Haris\\MyPackage\\": "src/"
+        }
+    },
+    "require": {}
+}
