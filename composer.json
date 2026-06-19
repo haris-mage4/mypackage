@@ -2,6 +2,12 @@
     "name": "smh-tariq/my-package",
     "description": "My custom package",
     "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Syed Muhammad Haris Tariq"
+        }
+    ],
     "autoload": {
         "psr-4": {
             "Haris\\MyPackage\\": "src/"
